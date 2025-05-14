@@ -1,5 +1,5 @@
-function soma(a, b){
+function somar(a, b){
     return a + b;
 }
 
-module.exports = { soma };
+module.exports = { somar };

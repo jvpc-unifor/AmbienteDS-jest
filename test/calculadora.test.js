@@ -1,4 +1,4 @@
-const { somar } = require(".../src/calculadora.js");
+const { somar } = require("../src/calculadora");
 
 describe("teste da função somar", () => {
     it("deve retornar a soma de dois números", () => {
